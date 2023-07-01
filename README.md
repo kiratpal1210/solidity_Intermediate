@@ -97,6 +97,7 @@ contract SmartContract {
 ## Author
 
 Kiratpal Singh Kalsey
+
 https://www.linkedin.com/in/kiratpal-singh-kalsey-a92b15230/
 
 ## License
